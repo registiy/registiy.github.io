@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Volvo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9FB5AB2DB350616BEA5ED3301D193BE3C9BB05E1</string>
+				<key>dateExpires</key>
+				<string>11.06.2023</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>LZN39WNDFV.com.rubymedia.volvoremotecontrol</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>LZN39WNDFV</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Volvo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>812e23a9-17c7-4cd7-a95e-dbb75fd8ffe2</string>
+				<key>dateExpires</key>
+				<string>11.06.2023</string>
+				<key>name</key>
+				<string>Volvo provisioning profile ad-hoc 2</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>LZN39WNDFV</string>
+				<key>name</key>
+				<string>Denis Romantsov</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
